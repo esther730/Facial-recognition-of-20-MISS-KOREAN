@@ -86,5 +86,5 @@ grid.raster(col, interpolate=FALSE)
 ### Conclusion
 
 1. With centering or substract by the mean will make the face become blur
-2. with centering, both the proportion of variation and standard deviation decrease.
+2. With centering, both the proportion of variation and standard deviation decrease.
 
